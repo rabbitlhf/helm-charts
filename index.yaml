@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-volcengine:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2025-06-16T16:14:14.874567+08:00"
+    description: A Cert Manager Webhook for Volcengine
+    digest: 38f86da010964b610cf7a509ab9857fc55674ab7a9e7d9ce77d306cbcfd5e937
+    icon: https://portal.volccdn.com/obj/volcfe/misc/favicon.png
+    name: cert-manager-webhook-volcengine
+    urls:
+    - https://rabbitlhf.github.io/helm-charts/cert-manager-webhook-volcengine-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-06-16T16:14:14.872787+08:00"
