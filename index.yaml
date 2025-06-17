@@ -1,9 +1,19 @@
 apiVersion: v1
 entries:
+  cert-manager-webhook-dnspod:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2025-06-16T16:37:55.457446+08:00"
+    description: A Cert Manager Webhook for DNSPod
+    digest: cd475d0b73b49a3ee1ae8d9aa839baba521db86bb26e9d46df0db0adc6dd918e
+    name: cert-manager-webhook-dnspod
+    urls:
+    - https://rabbitlhf.github.io/helm-charts/cert-manager-webhook-dnspod-0.3.3.tgz
+    version: 0.3.3
   cert-manager-webhook-volcengine:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-06-16T16:14:14.874567+08:00"
+    created: "2025-06-16T16:37:55.458288+08:00"
     description: A Cert Manager Webhook for Volcengine
     digest: 38f86da010964b610cf7a509ab9857fc55674ab7a9e7d9ce77d306cbcfd5e937
     icon: https://portal.volccdn.com/obj/volcfe/misc/favicon.png
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://rabbitlhf.github.io/helm-charts/cert-manager-webhook-volcengine-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-16T16:14:14.872787+08:00"
+generated: "2025-06-16T16:37:55.456678+08:00"
